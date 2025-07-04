@@ -8,7 +8,7 @@ This project is a web-based multiple disease prediction system built with Python
   3. Parkinsons Disease
   4. Breast Cancer
 
-#  ✨ 3. Features
+#  ✨ 2. Features
 
 - Interactive sidebar menu for selecting the disease
   
@@ -20,7 +20,7 @@ This project is a web-based multiple disease prediction system built with Python
   
 - Built with Streamlit for a smooth and responsive web UI
 
-#  🛠️ 2. Tech Stack Used
+#  🛠️ 3. Tech Stack Used
 
 - Python
 
