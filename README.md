@@ -1,11 +1,14 @@
 # Multiple-Disease-Prediction-System
+
+# 📌 1. Project Description
+
 This project is a web-based multiple disease prediction system built with Python, Machine Learning, and Streamlit (Spyder). It provides a simple and interactive interface where users can enter medical parameters to get predictions for: 
   1. Diabetes
   2. Heart Disease
   3. Parkinsons Disease
   4. Breast Cancer
 
-#  Features
+#  ✨ 3. Features
 
 - Interactive sidebar menu for selecting the disease
   
@@ -17,7 +20,7 @@ This project is a web-based multiple disease prediction system built with Python
   
 - Built with Streamlit for a smooth and responsive web UI
 
-#  Tech Stack
+#  🛠️ 2. Tech Stack Used
 
 - Python
 
@@ -29,6 +32,6 @@ This project is a web-based multiple disease prediction system built with Python
   
 - Pickle (for loading saved models)
 
-#  How it Works
+#  ⚙️ 4. How It Works
   Each disease has its own prediction model trained on real medical datasets. The user selects a disease from the sidebar, enters the required parameters, and receives an instant prediction based on the input.
 
